@@ -6,11 +6,11 @@
 
 ## Description
 
-The muRata OKR-T/6 series are miniature SIP package, which makes it difficult when wanting to breakboard the design using the miniature SIP package.  This breakout board provides a standard 100mil (2.56mm) header.
+The muRata OKR-T/6 series are miniature SIP package, which makes it difficult when wanting to breadboard the design using the miniature SIP package.  This breakout board provides a standard 100mil (2.54mm) header.
 
 ## Board Features
 
-- SIP to Standard 100mil (2.56mm) Header
+- SIP to Standard 100mil (2.54mm) Header
 - An onboard Trim Resistor (both 0805 & Through-hole)
   - Can use through-hole resistor as bypass jumper 
 - Ground Flood Plane on Bottom Layer using Thermals
