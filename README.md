@@ -2,9 +2,7 @@
 <br>
 <br>
 
-<center>
-<img src="https://github.com/odelayIO/muRata-Breakout-Board/blob/master/muRata_Breakout.jpg" alt="1">
-</center> 
+![layout](https://github.com/odelayIO/muRata-Breakout-Board/blob/master/muRata_Breakout.jpg)
 
 ## Description
 
