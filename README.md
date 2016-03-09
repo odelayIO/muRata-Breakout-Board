@@ -2,9 +2,10 @@
 <br>
 <br>
 
-{:.center}
-![Layout](https://github.com/odelayIO/muRata-Breakout-Board/blob/master/muRata_Breakout.jpg)
-   
+<center>
+<img src="https://github.com/odelayIO/muRata-Breakout-Board/blob/master/muRata_Breakout.jpg" alt="1">
+</center> 
+
 ## Description
 
 The muRata OKR-T/6 series are miniature SIP package, which makes it difficult when wanting to breakboard the design using the miniature SIP package.  This breakout board provides a standard 100mil (2.56mm) header.
