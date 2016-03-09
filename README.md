@@ -1,14 +1,15 @@
 # The muRata OKR-T/6 Series Breakout Board
 <br>
 <br>
-<center>
+
+{:.center}
 ![Layout](https://github.com/odelayIO/muRata-Breakout-Board/blob/master/muRata_Breakout.jpg)
-</center>
    
-## Description:
+## Description
+
 The muRata OKR-T/6 series are miniature SIP package, which makes it difficult when wanting to breakboard the design using the miniature SIP package.  This breakout board provides a standard 100mil (2.56mm) header.
 
-### Board Features:
+## Board Features
 
 - SIP to Standard 100mil (2.56mm) Header
 - An onboard Trim Resistor (both 0805 & Through-hole)
@@ -18,7 +19,7 @@ The muRata OKR-T/6 series are miniature SIP package, which makes it difficult wh
 - Pin Labels on Bottom and Top Silkscreen
 
 
-## Documents:
+## Documents
 
 - [muRata OKR-T6-W12 Datasheet](http://www.murata-ps.com/data/power/okr-t6-w12.pdf)
 - muRata_Breakout_Eagle_7.3.0_Files.zip : Schematic & Layout File
@@ -26,6 +27,7 @@ The muRata OKR-T/6 series are miniature SIP package, which makes it difficult wh
   - View Gerber files using [Gerbv](https://apps.ubuntu.com/cat/applications/natty/gerbv/)
 
 
-## Additional Information:
+## Additional Information
+
 - Fab board at [dirtypcb.com](http://dirtypcb.com)
   - Gerber Zip Package is ready for fab
